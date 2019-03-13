@@ -17,6 +17,7 @@ The first algorithm is Sinkhorn-Knopp (SK) matrix-scaling algorithm.
 It will be translated from POT (Python Optimal Transport) library,
 and I will compare running time given two different languages.
 SK algorithm in POT is written using *numpy* library,
+but Julia are supposed to be even faster.
 <!-- and I wonder if Julia implementation is faster. -->
 <!-- which is based on C/C++ and Fortran as its base. -->
 
